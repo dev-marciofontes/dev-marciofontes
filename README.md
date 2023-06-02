@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&pause=2000&lines=Hi!+I'm+M%C3%A1rcio+Fontes+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-marciofontes&bg_color=0A0C10&color=36bcf7&line=055f61&point=36bcf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
