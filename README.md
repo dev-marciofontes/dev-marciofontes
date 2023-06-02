@@ -6,7 +6,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-marciofontes&bg_color=000000&color=36bcf7&line=055f61&point=36bcf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-marciofontes&show_icons=true&theme=dracula)
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-marciofontes&show_icons=true&theme=dracula" alt="Márcio Fontes github stats">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marciofontes&layout=compact" alt="Márcio Fontes github stats">
+</div>    
 
 ## - Redes Sociais
 <br>
