@@ -40,3 +40,12 @@
     <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
     <img align="center" alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </div>
+
+<div>
+    <br>
+    <p><b>Contador de Visitas</b></p>
+    <p><img src="https://profile-counter.glitch.me/{dev-marciofontes}/count.svg"></p>
+    <br>
+</div>    
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer">
