@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&pause=2000&lines=Hi!+I'm+M%C3%A1rcio+Fontes+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-<h3 align="center">Especialista Back-End e Analista de Dados em constante evolução 🚀</h3>
-<h4 align="center">* Também sou um curioso sobre Machine Learning 🤖, Gamer 🎮 e adoro ler 📖 *</h4>
+<h3 align="center">Desenvolvedor Back-End e Analista de Dados em constante evolução 🚀</h3>
+<h4 align="center">* Atualmente estudo Machine Learning 🤖, também sou Gamer 🎮 e adoro ler 📖 *</h4>
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-marciofontes&bg_color=0A0C10&color=36bcf7&line=055f61&point=36bcf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
