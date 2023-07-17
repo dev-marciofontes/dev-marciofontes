@@ -47,7 +47,6 @@
 <div align="center">
     <br>
     <p align="center"><b>Contador de Visitas</b></p>
-    <p>![Profile views](https://gpvc.arturio.dev/[dev-marciofontes])</p>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dev-marciofontes}/count.svg"></p>
 </div>    
 
