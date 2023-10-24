@@ -6,9 +6,6 @@
 <h4 align="center">* Atualmente estudo automações com Python e novos conceitos para análise de dados e BI *</h4>
 <br/>
 
-https://github-readme-activity-graph.vercel.app
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-marciofontes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
