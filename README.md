@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&pause=2000&lines=Hi!+I'm+M%C3%A1rcio+Fontes+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-<h3 align="center">Cientista de Dados e Desenvolvedor Full-Stack em constante evolução 🚀</h3>
+<h3 align="center">Desenvolvedor Full-Stack e Cientista de Dados em constante evolução 🚀</h3>
 <h4 align="center">* Atualmente faço faculdade de Ciência da Computação e tenho aprofundado os meus estudos na área *</h4>
 <br/>
 
