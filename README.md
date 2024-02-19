@@ -13,11 +13,7 @@
     <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-marciofontes&layout=compact&hide_border=true&title_color=35B8F2&text_color=35B8F2&bg_color=0A0C10" alt="Márcio Fontes github stats">
 </div>    
 
-### - Redes Sociais
-<br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciofontes/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-marciofontes?tab=repositories)
 
 ## ⚡ Tecnologias que estudo e estudei durante minha jornada.
 
@@ -51,6 +47,12 @@
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
     <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 </div>
+
+### - Redes Sociais
+<br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciofontes/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-marciofontes?tab=repositories)
 
 
 <br><br><br>
