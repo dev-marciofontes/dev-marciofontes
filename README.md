@@ -13,6 +13,15 @@
     <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-marciofontes&layout=compact&hide_border=true&title_color=35B8F2&text_color=35B8F2&bg_color=0A0C10" alt="Márcio Fontes github stats">
 </div>    
 
+## 👉 Sobre mim
+
+* Tenho como estilo de vida o aprendizado contínuo de novas tecnologias e aprimoramento das minhas capacidades, focando em desenvolvimento de software, aplicações web e Machine Learning, aprendendo novas tecnologias e adquirindo conhecimento para conseguir mais eficiência e eficácia dentro destas áreas.
+
+* Desde a infância, fui apaixonado por tecnologia e sempre estive cercado pelo universo de TI. Embora não tenha atuado diretamente no setor, minha proximidade e interesse pelo ambiente tecnológico foram fundamentais para o meu desenvolvimento profissional. Em cada etapa da minha carreira, sempre estive de alguma forma envolvido com a informática ou com a programação.
+
+* Adoro estudar e buscar conhecimento, sempre colocando em prática o que aprendo, o que me permite adquirir habilidades de maneira ágil e eficiente. Minha curiosidade e gosto pela pesquisa me tornam um solucionador de problemas nato, tentando sempre abordar desafios com criatividade e dedicação. 
+
+* Minha experiência com os diferentes clientes que tive durante a minha fase empreendedora, me trouxeram maturidade, resiliência , melhoria na minha comunicação e principalmente na minha capacidade de resolução dos problemas.
 
 
 ## ⚡ Tecnologias que estudo e estudei durante minha jornada.
