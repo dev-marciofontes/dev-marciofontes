@@ -15,24 +15,37 @@
 
 ## 👉Sobre mim
 
-* Tenho como estilo de vida o aprendizado contínuo de novas tecnologias e aprimoramento das minhas capacidades, focando em desenvolvimento de software, aplicações web e Machine Learning, aprendendo novas tecnologias e adquirindo conhecimento para conseguir mais eficiência e eficácia dentro destas áreas.
+Sou graduando em Ciência da Computação, graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software. Atualmente atuo como desenvolvedor full-stack, com experiência na criação de interfaces responsivas e interativas utilizando Vue.js, Quasar e Vuetify.
 
-* Desde a infância, fui apaixonado por tecnologia e sempre estive cercado pelo universo de TI. Embora não tenha atuado diretamente no setor, minha proximidade e interesse pelo ambiente tecnológico foram fundamentais para o meu desenvolvimento profissional. Em cada etapa da minha carreira, sempre estive de alguma forma envolvido com a informática ou com a programação.
+Tenho um forte compromisso com o aprendizado contínuo e aprimoramento técnico, sempre explorando novas tecnologias para aumentar a eficiência, a performance e a usabilidade das aplicações que desenvolvo.
 
-* Adoro estudar e buscar conhecimento, sempre colocando em prática o que aprendo, o que me permite adquirir habilidades de maneira ágil e eficiente. Minha curiosidade e gosto pela pesquisa me tornam um solucionador de problemas nato, tentando sempre abordar desafios com criatividade e dedicação. 
+Ao longo da minha trajetória, trabalhei no desenvolvimento e manutenção de aplicações web modernas, sempre com foco na experiência do usuário e na entrega de soluções robustas. Minhas principais competências incluem:
 
-* Minha experiência com os diferentes clientes que tive durante a minha fase empreendedora, me trouxeram maturidade, resiliência , melhoria na minha comunicação e principalmente na minha capacidade de resolução dos problemas.
+* Desenvolvimento Front-End: Criação de interfaces dinâmicas, reutilizáveis e acessíveis, com foco em responsividade e usabilidade.
+
+* Integração com APIs: Comunicação eficiente entre front-end e back-end utilizando Axios e REST APIs.
+
+* Back-End com Java/Spring Boot: Desenvolvimento e manutenção de APIs com integração a bancos de dados PostgreSQL.
+
+* Experiência com React, Next.js e Node.js: Ampliando minha atuação no desenvolvimento web moderno através de alguns projetos pessoais e freela.
+
+* Participação ativa em projetos diversos, contribuindo para a melhoria contínua dos produtos e garantindo a melhor experiência possível aos usuários.
 
 
 ## ⚡Tecnologias que estudo e estudei durante minha jornada.
 
 ### - Linguagens de Programação & Banco de Dados:
 <div style="display: inline_block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
-    <img align="center" alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</div>
+
+<div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="Spring" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img align="center" alt="Node" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br/>
@@ -40,22 +53,15 @@
     <img align="center" alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</div>
+</div><br/>
+
 
 ### - Ferramentas
-
 <div style="display: inline_block"><br/>
-    <img align="center" alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-    <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    <img align="center" alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
     <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-</div>
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
     <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-</div>
+</div><br/>
 
 ## #️⃣ Redes Sociais
 <br>
