@@ -72,10 +72,4 @@ Ao longo da minha trajetória, trabalhei no desenvolvimento e manutenção de ap
 
 <br><br><br>
 
-<div align="center">
-    <br>
-    <p align="center"><b>Contador de Visitas</b></p>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dev-marciofontes}/count.svg"></p>
-</div>    
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer">
