@@ -52,7 +52,7 @@ Habilidades Técnicas:
 
 • HTML, CSS, Sass, Tailwind CSS
 
-
+<br/>
 
 ✔Back-End:
 
@@ -60,7 +60,7 @@ Habilidades Técnicas:
 
 • Node.js, NestJS, Prisma ORM
 
-
+<br/>
 
 ✔ APIs e Integrações:
 
@@ -74,7 +74,7 @@ Habilidades Técnicas:
 
 • Tratamento de erros
 
-
+<br/>
 
 ✔ Banco de Dados:
 
@@ -82,7 +82,7 @@ Habilidades Técnicas:
 
 • SQL
 
-
+<br/>
 
 ✔ Metodologias e Práticas:
 
@@ -94,7 +94,7 @@ Habilidades Técnicas:
 
 • Arquitetura escalável
 
-
+<br/>
 
 Contato
 
