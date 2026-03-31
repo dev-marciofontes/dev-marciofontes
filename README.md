@@ -14,21 +14,91 @@
 
 ## 👉Sobre mim
 
-Sou graduando em Ciência da Computação, graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software. Atualmente atuo como desenvolvedor full-stack, com experiência na criação de interfaces responsivas e interativas utilizando Vue.js, Quasar e Vuetify.
+Graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software, atuo como Desenvolvedor Full Stack, com forte especialização em Front-End moderno, performático e responsivo, além de sólida atuação em Back-End com Java e Node.js.
 
-Tenho um forte compromisso com o aprendizado contínuo e aprimoramento técnico, sempre explorando novas tecnologias para aumentar a eficiência, a performance e a usabilidade das aplicações que desenvolvo.
 
-Ao longo da minha trajetória, trabalhei no desenvolvimento e manutenção de aplicações web modernas, sempre com foco na experiência do usuário e na entrega de soluções robustas. Minhas principais competências incluem:
 
-* Desenvolvimento Front-End: Criação de interfaces dinâmicas, reutilizáveis e acessíveis, com foco em responsividade e usabilidade.
+Tenho ampla experiência na criação de interfaces ricas e escaláveis utilizando Vue.js, Quasar e Vuetify, sempre com foco em experiência do usuário (UX/UI), acessibilidade, reutilização de componentes e boas práticas de desenvolvimento. Atuo diretamente no consumo e integração de APIs REST, garantindo padronização, segurança e tratamento adequado de erros.
 
-* Integração com APIs: Comunicação eficiente entre front-end e back-end utilizando Axios e REST APIs.
 
-* Back-End com Java/Spring Boot: Desenvolvimento e manutenção de APIs com integração a bancos de dados PostgreSQL.
 
-* Experiência com React, Next.js e Node.js: Ampliando minha atuação no desenvolvimento web moderno através de alguns projetos pessoais e freela.
+Ao longo da minha trajetória profissional, participo ativamente de todo o ciclo de vida das aplicações, desde o levantamento de requisitos e definição de soluções técnicas até a implementação, manutenção e evolução contínua dos sistemas. Tenho experiência tanto na camada visual quanto no desenvolvimento de regras de negócio, integrações complexas e persistência de dados.
 
-* Participação ativa em projetos diversos, contribuindo para a melhoria contínua dos produtos e garantindo a melhor experiência possível aos usuários.
+
+
+No Back-End, trabalho com Java e Spring Boot, bem como com Node.js utilizando NestJS, aplicando arquiteturas organizadas, código limpo e escalável, além do uso de ORMs como Prisma para integração eficiente com bancos de dados PostgreSQL.
+
+
+
+Também atuo no acompanhamento de estagiários, auxiliando no desenvolvimento técnico, adoção de boas práticas e integração ao time, contribuindo para um ambiente colaborativo e de aprendizado contínuo.
+
+
+
+Tenho forte compromisso com qualidade de código, performance, escalabilidade e evolução constante, buscando sempre alinhar soluções técnicas aos objetivos do negócio.
+
+
+
+Habilidades Técnicas:
+
+
+
+✔Front-End:
+
+• Vue.js, Quasar, Vuetify
+
+• JavaScript, TypeScript
+
+• React, Next.js
+
+• HTML, CSS, Sass, Tailwind CSS
+
+
+
+✔Back-End:
+
+• Java, Spring Boot
+
+• Node.js, NestJS, Prisma ORM
+
+
+
+✔ APIs e Integrações:
+
+• API REST
+
+• Axios, Fetch
+
+• Autenticação e autorização
+
+• Padronização de requisições
+
+• Tratamento de erros
+
+
+
+✔ Banco de Dados:
+
+• PostgreSQL
+
+• SQL
+
+
+
+✔ Metodologias e Práticas:
+
+• Metodologias Ágeis (Scrum, Kanban)
+
+• Boas práticas de desenvolvimento
+
+• Código limpo
+
+• Arquitetura escalável
+
+
+
+Contato
+
+📧 contato@marciofontes.com.br
 
 
 ## ⚡Tecnologias que estudo e estudei durante minha jornada.
