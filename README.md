@@ -1,4 +1,4 @@
-<img width="100%" height="180px" style="object-fit: cover;" src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2000&auto=format&fit=crop" alt="Galaxy Header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&pause=2000&lines=Hi!+I'm+M%C3%A1rcio+Fontes+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -117,4 +117,4 @@ Contato
 
 <br><br>
 
-<img width="100%" height="120px" style="object-fit: cover;" src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2000&auto=format&fit=crop" alt="Galaxy Footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer">
