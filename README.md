@@ -44,55 +44,31 @@ Habilidades Técnicas:
 
 ✔Front-End:
 
-• Vue.js, Quasar, Vuetify
-
-• JavaScript, TypeScript
-
-• React, Next.js
-
-• HTML, CSS, Sass, Tailwind CSS
+• Vue.js, Quasar, Vuetify, JavaScript, TypeScript, React, Next.js, HTML, CSS, Sass, Tailwind CSS
 
 <br/>
 
 ✔Back-End:
 
-• Java, Spring Boot
-
-• Node.js, NestJS, Prisma ORM
+• Java, Spring Boot, Node.js, NestJS, Prisma ORM
 
 <br/>
 
 ✔ APIs e Integrações:
 
-• API REST
-
-• Axios, Fetch
-
-• Autenticação e autorização
-
-• Padronização de requisições
-
-• Tratamento de erros
+• API REST, Axios, Fetch, Autenticação e autorização, Padronização de requisições, Tratamento de erros
 
 <br/>
 
 ✔ Banco de Dados:
 
-• PostgreSQL
-
-• SQL
+• PostgreSQL, SQL, Oracle, MongoDB
 
 <br/>
 
 ✔ Metodologias e Práticas:
 
-• Metodologias Ágeis (Scrum, Kanban)
-
-• Boas práticas de desenvolvimento
-
-• Código limpo
-
-• Arquitetura escalável
+• Metodologias Ágeis (Scrum, Kanban), Boas práticas de desenvolvimento, Código limpo, Arquitetura escalável
 
 <br/>
 
