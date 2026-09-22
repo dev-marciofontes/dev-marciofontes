@@ -5,8 +5,6 @@
 <h3 align="center">Desenvolvedor Full-Stack em constante evolução 🚀</h3>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-marciofontes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-marciofontes&show_icons=true&&hide_border=true&title_color=35B8F2&text_color=35B8F2&bg_color=0A0C10" alt="Márcio Fontes github stats">
     <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-marciofontes&layout=compact&hide_border=true&title_color=35B8F2&text_color=35B8F2&bg_color=0A0C10" alt="Márcio Fontes github stats">
