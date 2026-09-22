@@ -3,12 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&pause=2000&lines=Hi!+I'm+M%C3%A1rcio+Fontes+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 <h3 align="center">Desenvolvedor Full-Stack em constante evolução 🚀</h3>
-<br/>
-
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-marciofontes&show_icons=true&&hide_border=true&title_color=35B8F2&text_color=35B8F2&bg_color=0A0C10" alt="Márcio Fontes github stats">
-    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-marciofontes&layout=compact&hide_border=true&title_color=35B8F2&text_color=35B8F2&bg_color=0A0C10" alt="Márcio Fontes github stats">
-</div>    
+<br/>  
 
 ## 👉Sobre mim
 
